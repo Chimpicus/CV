@@ -1,0 +1,25 @@
+body {
+  background-color: #f8ede3;
+  margin: 10%;
+  font-family: monospace;
+  font-size: large;
+  color: #616161
+}
+
+hr {
+  width: 85%;
+  border-style: none;
+  border-bottom: 2px groove #bdd2b6;
+}
+
+h1 {
+  color: #424642;
+}
+
+h3 {
+  color: #424642;
+}
+
+h4 {
+  color: #424642;
+}
